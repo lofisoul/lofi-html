@@ -1,0 +1,24 @@
+{
+  "name": "lofi-html",
+  "version": "1.0.0",
+  "description": "Basic HTML package with browser-sync and some reset.css",
+  "main": "script.js",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.css, *.html, *.js, !node_modules/**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lofisoul/lofi-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lofisoul/lofi-html/issues"
+  },
+  "homepage": "https://github.com/lofisoul/lofi-html#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
