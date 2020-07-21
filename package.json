@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/lofisoul/lofi-html#readme",
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.10"
   }
 }
