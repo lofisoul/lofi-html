@@ -1,2 +1,9 @@
 # lofi-html
-Basic HTML package with browser-sync and some reset.css
+Basic no-config frontend boilerplate built with `parcel`.
+
+### Getting Started
+```
+yarn start
+```
+
+Run `yarn start` to launch the dev environment locally/
